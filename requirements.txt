@@ -1,0 +1,7 @@
+FastMCP
+FastAPI
+Pydantic
+httpx
+python-dotenv
+atlassian-python-api
+PyGithub
